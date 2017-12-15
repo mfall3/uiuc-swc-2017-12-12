@@ -1,5 +1,7 @@
 # workshop-template
 
+Colleen Fallaw's personal copy.
+
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
 
